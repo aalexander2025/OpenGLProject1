@@ -15,24 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="glad.c">
+    <ClCompile Include="yes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Object Include="x64\Debug\Main.obj" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="x64\Debug\OpenGLProject1.exe.recipe" />
-    <None Include="x64\Debug\vc143.idb" />
-    <None Include="x64\Debug\vc143.pdb" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="x64\Debug\OpenGLProject1.log" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Main.cpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
